@@ -40,7 +40,7 @@ cd text-summarizer
 
 ### Setup Instructions:
 1. Download the model from the link above  
-2. Extract the downloaded file  
+2. Extract the downloaded file & decompress (its is a zip file) 
 3. Place the folder in the project root directory  
 
 Expected structure:
